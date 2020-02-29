@@ -24,7 +24,7 @@ require "config.php"?>
 
 .container .btn {
   position: absolute;
-  top: 50%;
+  top: 52%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -62,7 +62,7 @@ require "config.php"?>
 
 <div class="container">
   <img src="/images/Logo2.jpg" alt="Snow" style="width:200%">
-    
+
   <a href="https://www.github.com/jaybproductions" class="btn">Check out my Github!</a>
 </div>
 
