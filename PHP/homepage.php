@@ -5,7 +5,7 @@ session_start();
 require "config.php"?>
 <html>
 <head>
-  <title>Jay23B Productions</title>
+  <title>JayB Productions</title>
 
 
 <link rel="stylesheet" href="/css/site.css">
